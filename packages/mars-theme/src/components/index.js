@@ -73,9 +73,5 @@ const HeadContainer = styled.div`
 const Main = styled.div`
   display: flex;
   justify-content: center;
-  background-image: linear-gradient(
-    180deg,
-    rgba(66, 174, 228, 0.1),
-    rgba(66, 174, 228, 0)
-  );
+  background-color: #ffffff;
 `;
