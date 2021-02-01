@@ -13,7 +13,7 @@
   },
   "prettier": {},
   "dependencies": {
-    "frontity": "^1.13.0",
+    "frontity": "^1.14.1",
     "@frontity/core": "^1.9.1",
     "@frontity/wp-source": "^1.10.0",
     "@frontity/tiny-router": "^1.2.4",
