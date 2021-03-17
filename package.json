@@ -14,7 +14,7 @@
   "prettier": {},
   "dependencies": {
     "frontity": "^1.14.3",
-    "@frontity/core": "^1.11.0",
+    "@frontity/core": "^1.11.1",
     "@frontity/wp-source": "^1.11.2",
     "@frontity/tiny-router": "^1.4.0",
     "@frontity/html2react": "^1.6.1",
